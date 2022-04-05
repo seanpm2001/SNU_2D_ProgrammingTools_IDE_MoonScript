@@ -101,6 +101,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "snu-programming-tools",
+      "name": "SNU Programming Tools",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79681666?v=4",
+      "profile": "https://snu-programming-tools.github.io/",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
