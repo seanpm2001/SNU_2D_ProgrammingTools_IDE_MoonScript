@@ -1,0 +1,112 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "seanpm2001",
+      "name": "Sean P. Myrick V19.1.7.2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65933340?v=4",
+      "profile": "https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3",
+      "contributions": [
+        "code",
+        "doc",
+        "blog",
+        "bug",
+        "platform",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "all-contributors",
+      "name": "All Contributors",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
+      "profile": "https://allcontributors.org",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "seanpm2001-MoonScript-lang",
+      "name": "Seanpm2001 MoonScript language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101436469?v=4",
+      "profile": "https://github.com/Seanpm2001-MoonScript-lang",
+      "contributions": [
+        "code",
+        "doc",
+        "blog",
+        "bug",
+        "platform",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-Lua-lang",
+      "name": "Seanpm2001 Lua projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84098390?v=4",
+      "profile": "https://www.lua.org/",
+      "contributions": [
+        "code",
+        "doc",
+        "blog",
+        "bug",
+        "platform",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "snu-development",
+      "name": "SNU (Social Network Ultimate)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71748421?v=4",
+      "profile": "https://github.com/seanpm2001/",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "snu-2D",
+      "name": "SNU 2 Dimensional Development Center ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83679522?v=4",
+      "profile": "https://github.com/seanpm2001/SNU",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "SNU_2D_ProgrammingTools_IDE_MoonScript",
+  "projectOwner": "seanpm2001",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
