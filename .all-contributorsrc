@@ -87,6 +87,20 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "snu-2D",
+      "name": "SNU 2 Dimensional Development Center ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83679522?v=4",
+      "profile": "https://github.com/seanpm2001/SNU",
+      "contributions": [
+        "code",
+        "doc",
+        "platform",
+        "content",
+        "design",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
