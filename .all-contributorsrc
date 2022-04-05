@@ -53,6 +53,26 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-Lua-lang",
+      "name": "Seanpm2001 Lua projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84098390?v=4",
+      "profile": "https://www.lua.org/",
+      "contributions": [
+        "code",
+        "doc",
+        "blog",
+        "bug",
+        "platform",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
